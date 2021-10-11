@@ -1,6 +1,6 @@
 # Kill all actvite containers
-bash dcontainers.sh
-bash dimages.sh
-bash dvolumes.sh
-bash dnetwork.sh
+bash $HOME/dcontainers.sh
+bash $HOME/dimages.sh
+bash $HOME/dvolumes.sh
+bash $HOME/dnetwork.sh
 echo "everything destroyed."
